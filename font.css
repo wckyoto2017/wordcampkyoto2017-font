@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'WordCamp Kyoto 2017';
-	src:  url('fonts/wordcampkyoto2017.eot?ydaok5');
-	src:  url('fonts/wordcampkyoto2017.eot?ydaok5#iefix') format('embedded-opentype'),
-		url('fonts/wordcampkyoto2017.ttf?ydaok5') format('truetype'),
-		url('fonts/wordcampkyoto2017.woff?ydaok5') format('woff'),
-		url('fonts/wordcampkyoto2017.svg?ydaok5#wordcampkyoto2017') format('svg');
+	src: url('https://raw.githubusercontent.com/wckyoto2017/wordcampkyoto2017-font/master/fonts/wordcampkyoto2017.eot?ydaok5');
+	src: url('https://raw.githubusercontent.com/wckyoto2017/wordcampkyoto2017-font/master/fonts/wordcampkyoto2017.eot?ydaok5#iefix') format('embedded-opentype'),
+	     url('https://raw.githubusercontent.com/wckyoto2017/wordcampkyoto2017-font/master/fonts/wordcampkyoto2017.ttf?ydaok5') format('truetype'),
+	     url('https://raw.githubusercontent.com/wckyoto2017/wordcampkyoto2017-font/master/fonts/wordcampkyoto2017.woff?ydaok5') format('woff'),
+	     url('https://raw.githubusercontent.com/wckyoto2017/wordcampkyoto2017-font/master/fonts/wordcampkyoto2017.svg?ydaok5#wordcampkyoto2017') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
